@@ -2,14 +2,14 @@
   "name": "tasklist-console-app",
   "version": "1.0.0",
   "description": "Tasklist console app",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Iñaki García",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
